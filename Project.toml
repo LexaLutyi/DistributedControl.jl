@@ -1,0 +1,13 @@
+name = "DistributedControl"
+uuid = "29a6cdef-a554-4866-b5f8-3750acfefac5"
+authors = ["LexaLutyi <liotbiu1@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
