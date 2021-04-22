@@ -1,5 +1,7 @@
 module DistributedControl
+    using LinearAlgebra
 
-# Write your package code here.
+    include("miscellanea.jl")
 
+    export fixed_modes, real_eigvectors, rosenbrok
 end

@@ -3,6 +3,9 @@ uuid = "29a6cdef-a554-4866-b5f8-3750acfefac5"
 authors = ["LexaLutyi <liotbiu1@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+
 [compat]
 julia = "1"
 
